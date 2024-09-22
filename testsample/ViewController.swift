@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         self.edgesForExtendedLayout = [.top]
         self.extendedLayoutIncludesOpaqueBars = true
         self.navigationItem.title = "vc1"
-        self.view.backgroundColor = .red
+        self.view.backgroundColor = .green
         //        let scroll = UIScrollView()
         //        scroll.translatesAutoresizingMaskIntoConstraints = false
         ////        scroll.delegate = self
