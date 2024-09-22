@@ -6,3 +6,19 @@
 //
 
 import Foundation
+import UIKit
+
+class ViewController2: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+        self.navigationItem.title = "vc2"
+        self.view.backgroundColor = .blue
+        self.edgesForExtendedLayout = [.top]
+
+
+    }
+
+
+}
