@@ -17,7 +17,7 @@ class ViewController2: UIViewController {
         self.view.backgroundColor = .blue
         self.edgesForExtendedLayout = [.top]
 
-        print("New update available from main branch")
+        print("New update available from develop branch")
     }
 
 
